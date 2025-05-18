@@ -1,0 +1,17 @@
+#integer
+age = 42
+#string
+name = "vivian"
+#float
+height = 5.8
+#boolean
+is_student = False
+print(type(age))
+print(type(name))
+print(type(height))
+print(type(is_student))
+
+age =  "42"
+age = int(age)
+
+print(age +5)
